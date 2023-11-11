@@ -16,10 +16,12 @@
 
     <ListView
         android:id="@+id/listViewEquipos"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="351dp"
+        android:layout_height="448dp"
         android:layout_below="@id/textViewTitulo"
-        android:layout_marginTop="8dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="77dp"
+        android:layout_marginEnd="36dp"
         android:divider="@android:color/darker_gray"
         android:dividerHeight="0.5dp"
         android:padding="16dp" />
